@@ -20,21 +20,21 @@ Predictive Hospital Resource & Emergency Load Intelligence System
 <h2>4. Deployed Link</h2>
 <p>
 <a href="https://orchids-hospital-predictive-system.vercel.app/" target="_blank">
-YOUR_DEPLOYED_LINK_HERE
+DEPLOYED_LINK_HERE
 </a>
 </p>
 
 <h2>5. 2-minute Demonstration Video Link</h2>
 <p>
 <a href="https://drive.google.com/file/d/1Oe_oRRmpKHsmLo-h49-0LZDSmqtRGRly/view?usp=drive_link" target="_blank">
-YOUR_VIDEO_LINK_HERE
+VIDEO_LINK_HERE
 </a>
 </p>
 
 <h2>6. PPT Link</h2>
 <p>
 <a href="https://drive.google.com/file/d/1hHARNoRGq_aMFLrFFApIPxE46n8wo6R3/view?usp=drive_link" target="_blank">
-YOUR_PPT_LINK_HERE
+PPT_LINK_HERE
 </a>
 </p>
 
