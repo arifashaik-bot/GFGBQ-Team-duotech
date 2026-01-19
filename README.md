@@ -61,7 +61,7 @@ improve overall patient care.
 </ol>
 
 <pre>
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/GFGBQ-Team-duotech.git
 </pre>
 
 <ol start="2">
@@ -69,7 +69,7 @@ git clone https://github.com/your-username/your-repo-name.git
 </ol>
 
 <pre>
-cd your-repo-name
+cd GFGBQ-Team-duotech
 </pre>
 
 <ol start="3">
