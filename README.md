@@ -110,6 +110,12 @@ The application will be available at <strong>http://localhost:3000</strong>
   <li><strong>Deployment:</strong> Vercel-ready Architecture</li>
 </ul>
 
+<h2>Live Demo</h2>
+<p>
+👉 Try the live app here:  
+    https://orchids-hospital-predictive-system.vercel.app/
+</p>
+
 <h2>✨ Key Features</h2>
 <ul>
   <li>AI-based prediction of emergency admissions and ICU demand</li>
